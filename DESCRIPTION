@@ -1,0 +1,11 @@
+Package: PIsens
+Title: Sensitivity Analyses for Violation of Principal Ignorability in Estimating (Non)Complier Average Causal Effects
+Version: 0.0.0.9000
+Authors@R: 
+    person("Trang", "Nguyen", , "trang.nguyen@jhu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
