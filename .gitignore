@@ -3,3 +3,6 @@
 .Rdata
 .httr-oauth
 .DS_Store
+inst/doc
+data-raw/dat.rds
+vignettes-IN-PROGRESS

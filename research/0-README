@@ -1,0 +1,12 @@
+This folder contains work that was done for the following paper:
+
+Nguyen et al. (2023). Sensitivity analysis for principal ignorability violation in estimating complier and noncomplier average causal effects. arXiv:2303.05032.
+
+
+It has three subfolders:
+
+- jobsII-analysis: the analysis of JOBS-II data as illustration of the sensitivity analyses
+
+- simulation: the limited simulation study of finite-sample bias
+
+- other stuff: other computing/plotting stuff for the paper, currently including just figure 1
